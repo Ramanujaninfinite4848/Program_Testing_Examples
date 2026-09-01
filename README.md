@@ -1,1 +1,1 @@
-Examples of partial programs, contains errors
+The Program Testing Examples contain errors
